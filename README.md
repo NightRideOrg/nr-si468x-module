@@ -31,13 +31,10 @@ This repository focuses on building an **open and reusable platform** around the
 ## 📁 Repository Structure
 
 ```
-
 /pcb        → KiCad schematics & PCB layouts
 /driver     → Linux driver / interface code (WIP)
-/docs       → notes, references, reverse engineering
 /tools      → debugging and testing utilities
 /firmware   → placeholder (not included, see below)
-
 ```
 
 ---

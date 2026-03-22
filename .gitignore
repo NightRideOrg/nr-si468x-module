@@ -48,11 +48,12 @@
 # YOUR SPECIAL CASES
 # =========================
 
-# 🚨 Firmware / vendor blobs (VERY IMPORTANT)
+# 🚨 Datasheets and co
 docs/
 
-# Optional: if you later separate it
-# firmware/
+# 🚨 Firmware
+firmware/*.bin
+firmware/*.bif
 
 # =========================
 # OS / Editor junk

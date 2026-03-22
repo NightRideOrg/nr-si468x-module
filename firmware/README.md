@@ -32,12 +32,10 @@ https://www.mikrocontroller.net/topic/342689
 Place firmware files in this directory:
 
 ```
-
 firmware/
 ├── dab_radio_*.bin
 ├── fmhd_radio_*.bin
 ├── rom_patch*.bin
-
 ```
 
 The software/driver will load firmware from this location.
