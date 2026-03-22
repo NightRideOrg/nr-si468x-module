@@ -1,0 +1,62 @@
+# =========================
+# KiCad (recursive)
+# =========================
+
+# Temp / backup files
+**/*.000
+**/*.bak
+**/*.bck
+**/*.tmp
+**/*~
+**/~*
+**/_autosave-*
+**/#auto_saved_files#
+**/#auto_saved_files\#
+**/*-bak*
+**/*-save.*
+
+# KiCad specific backups
+**/*-backups/
+**/*-backups/*.zip
+
+# KiCad cache
+**/*-cache*
+**/fp-info-cache
+
+# KiCad local settings (DO NOT COMMIT)
+**/*.kicad_prl
+
+# Lock files
+**/~*.lck
+
+# =========================
+# Outputs (optional)
+# =========================
+
+# Netlists
+**/*.net
+
+# Autorouter
+**/*.dsn
+**/*.ses
+
+# BOM exports
+**/*.xml
+**/*.csv
+
+# =========================
+# YOUR SPECIAL CASES
+# =========================
+
+# 🚨 Firmware / vendor blobs (VERY IMPORTANT)
+docs/
+
+# Optional: if you later separate it
+# firmware/
+
+# =========================
+# OS / Editor junk
+# =========================
+
+.DS_Store
+Thumbs.db
