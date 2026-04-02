@@ -6,7 +6,7 @@ This project provides hardware, software, and documentation to integrate a moder
 
 ---
 
-## 🚗 Overview
+## Overview
 
 The Si468x is a highly integrated broadcast receiver supporting:
 
@@ -19,7 +19,7 @@ This repository focuses on building an **open and reusable platform** around the
 
 ---
 
-## 🧩 Features
+## Features
 
 - Custom **M.2 E-Key module** design
 - Automotive-oriented integration (infotainment systems)
@@ -28,7 +28,7 @@ This repository focuses on building an **open and reusable platform** around the
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 /pcb        → KiCad schematics & PCB layouts
@@ -50,7 +50,7 @@ See [`/firmware/README.md`](firmware/README.md) for details on how to obtain and
 
 ---
 
-## 🔧 Hardware
+## Hardware
 
 Planned / current design goals:
 
@@ -62,7 +62,7 @@ Planned / current design goals:
 
 ---
 
-## 💻 Software
+## Software
 
 Planned features:
 
@@ -73,7 +73,7 @@ Planned features:
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 Due to licensing restrictions, some vendor documentation is not included.
 
@@ -88,7 +88,7 @@ These are typically available via:
 
 ---
 
-## ⚠️ Status
+## Status
 
 🚧 Work in progress
 
@@ -98,7 +98,7 @@ These are typically available via:
 
 ---
 
-## 📜 Licensing
+## Licensing
 
 This repository contains multiple components under different licenses:
 
@@ -107,9 +107,6 @@ This repository contains multiple components under different licenses:
 
 - **Hardware (`/pcb`)**  
   Licensed under the CERN Open Hardware License v2 – Strongly Reciprocal (CERN-OHL-S-2.0)
-
-- **Documentation (`/docs`)**  
-  Licensed under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
 
 - **Firmware**  
   Not included. Proprietary and subject to vendor licensing.
