@@ -55,6 +55,8 @@ docs/
 firmware/*.bin
 firmware/*.bif
 
+**/K3D-SM3ZS067U310AE_v01_JAE_Proprietary.STEP
+
 # =========================
 # OS / Editor junk
 # =========================
