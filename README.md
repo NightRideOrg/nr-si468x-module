@@ -60,6 +60,9 @@ Planned / current design goals:
 - I2S digital audio output
 - SPI / I2C host interface
 
+[View Schematic & PCB](https://maizeshark.github.io/pcbs/nr-si468x-module/)<br>
+[View Schematic & PCB for the RPi adapter Hat](https://maizeshark.github.io/pcbs/nr-si468x-rpi-adapter/)
+
 ---
 
 ## Software
@@ -92,7 +95,7 @@ These are typically available via:
 
 🚧 Work in progress
 
-- PCB: in development
+- PCB: finished
 - Driver: pending
 - Testing: pending
 
